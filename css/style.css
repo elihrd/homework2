@@ -46,7 +46,7 @@ div{
     border-style:solid;
 }
 
-div.red{
+.red{
     background: rgb(230, 120, 120);
     text-align: right;
     margin-left: 50px;
@@ -54,7 +54,7 @@ div.red{
     border-left: 10px;
 }
 
-div.blue{background: rgb(120, 137, 230);
+.blue{background: rgb(120, 137, 230);
     text-align: left;
     margin-right: 50px;
     border-bottom: 3px;
